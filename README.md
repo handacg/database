@@ -10,5 +10,6 @@ $ cd cours/db
 $ bundle install
 $ run sqlite3 development.sqlite3
 $ select * from (Table_Name)
+$ OPTIONAL => '.header.on' for a better view
 ~~~~
 
