@@ -2,7 +2,7 @@
 
 This repo allows you to play with different databases.  <br/>
 
-How this works <br/>
+How this works: <br/>
 
 ~~~~
 $ git clone https://github.com/handacg/database.git
